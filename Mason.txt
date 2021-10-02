@@ -1,0 +1,3 @@
+MASON
+
+This week I spent the majority of my time messaging with Ife, our contact at NCRA. I was added to the sample repository as well as the Jira project management team, which I also added the other team members to. Next week I plan to spend more time making sure we're set up to handle the requirements of the project.
