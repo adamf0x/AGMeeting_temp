@@ -1,0 +1,4 @@
+Riley 
+
+This week I spent my time reviewing the documentation provided by the client. 
+In addition, I spent time configuring my workspace for the given stack we will be working on and reviewing the stack languages.
