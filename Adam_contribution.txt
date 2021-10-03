@@ -1,3 +1,4 @@
 Weeks contributions: 
 - created a document summarizing the documentation that was given to us about the product.
 - link: https://docs.google.com/document/d/1MQY4ixJOgnXyE8hAb7VoR2qoMNj3ODPxwc9c6zM_mUo/edit?usp=sharing
+- 
