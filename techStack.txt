@@ -1,0 +1,2 @@
+Tech Stack: 
+	The tech stack we have been given is Material UI, ReactJS, NodeJS, and SQL. The Material UI is a react framework used for design; it has a vast library of complex components. To allow for quicker and more in-depth design. ReactJS is a popular front-end language, it allows for the making of interactive websites easier. NodeJS will be used for the backend. It allows for backend operations to continue operating well files are being ran. SQL will be used for the database. SQL is a popular relational database language which allows for data storage and data querying.
