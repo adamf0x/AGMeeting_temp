@@ -1,0 +1,18 @@
+•	A detailed list of non-functional requirements and environmental constraints for the overall project. The environmental constrains are similar to non-functional requirements and explains the constrains related to system’s environment. Some examples are interfaces to other systems, COTS components, programming language, system's location, size, power consumption, humidity, maintenance accessibility, ...etc.
+
+The Non functional requirements
+DEVICES:
+	Software must run on computers, tablet and smart phone.
+	Device require Internet Connection
+	Devices require Audio in for voice chat 
+	Devices require User Must have Javascript enabled webrowser 
+	admins and moderators Must Have systems should be able to upload files and save meeting history
+
+SOFTWARE
+	Must have Servers to store database 
+	Must have Security to protect users privacy
+	Must be Responsive to allow for real time voice chat and meeting
+	software errors should be minimized for meetings
+	Must be follow best practices, to allow for maintainability
+	The code must be written in a way which allows for testing
+	The code must be written modularity to allow for scalabillity
