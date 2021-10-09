@@ -1,0 +1,26 @@
+- The system should correctly and securely check a customer credentials against the database.
+- Customer should be able to enter credentials into the database for future use.
+- Customer can request schedule/catalog from the database.
+- Customer can request documents from the database.
+- System creates a log of functions during meetings.
+- Customer can request log of functions and messages from the database.
+- Payment is processed securely and correctly.
+- Multiple forms of payment can be processed. 
+
+
+Requirements
+ - By the requirements milestone, user groups need to be clarified (accomplished through discussion with client)
+
+Peer Eval 1
+ - Functional Requirements need to be established by this time, service should be functional.
+
+Peer Eval 2
+ - Unable to estimate due to lack of known dates.
+
+Final
+ - Unable to estimate due to lack of known dates.
+
+
+
+
+
