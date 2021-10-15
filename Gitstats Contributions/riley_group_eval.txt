@@ -1,0 +1,202 @@
+
+Checklik 0:
+
+i) The demostration helped me understand the goals of the project.
+ii) The description of the application was clean and consise
+iii) Why was there no non-functional requirements included?
+iv)
+v)
+
+Checklik 1:
+
+i) The user group slide had alot going on hard to understand
+ii) Level 1 DFD was very detailed
+iii) I liked the percentage of code diagram
+iv) Why are you using regression testing?
+v)
+
+Checklik 2:
+
+i) I like the feasibility discussion good forsight
+ii) Redesign plan
+iii) I was a little confused by "checklist before each feature merge" in the slides on the testing page
+iv) 
+v)
+
+Cyclops 0:
+
+i) Introduction was very thorough, gave me a good understanding of the project
+ii) The pro and cons for the tech stack was very good
+iii) why did you decide on using ionic
+iv)
+v)
+
+Cyclops 1:
+
+i) I like the graphics your group added throughout
+ii) what are the drawbacks of using webview?
+iii) Adding the milestones in the DFD diagram is very smart.
+iv)
+v)
+
+Cyclops 2:
+
+i) The dataflow diagrams would be easier to understand if there was verbage on the lines.
+ii) Displaying the value of each type of test is smart.
+iii) Is firebase safe considering sensitive data will be stored there?
+iv)
+v)
+
+Ethics Dashboard 0:
+
+i) I like the use of pictures throughout the presantation
+ii) The level 0 DFD was a little confusing would be nice if there was verbage between points
+iii) What made you decide to use nodejs and mysql?
+iv)
+v)
+
+Ethics Dashboard 1:
+
+i) User groups was done very well, gave me a good understandment of the goal of the project.
+ii) The level on DFD was very detailed.
+iii) Do you think django's slow speed is a good tradeoff for the potential benifits?
+iv)
+v)
+
+Ethics Dashboard 2:
+
+i) I Never heard of the Laravel Framework, Interesting.
+ii) The DFD diagram's are very thought out, Nice
+iii) Why are you using 3 testing strategies?
+iv)
+v)
+
+Woo Woo 0:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+Woo Woo 1:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+Woo Woo 2:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+LIMS 0:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+LIMS 1:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+LIMS 2:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+AGMEETING 0: US
+
+AGMEETING 1:
+
+i) 
+ii) 
+iii) 
+iv)
+v)
+
+
+AGMEETING 2:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+
+MIM 0:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+
+MIM 1:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+TMI 0:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+TMI 1:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+TMI 2:
+
+i)
+ii)
+iii)
+iv)
+v)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
