@@ -73,58 +73,61 @@ v)
 
 Woo Woo 0:
 
-i)
-ii)
-iii)
+i) I was confused by the description is this, a marketing application or a connecting platform which allows for booking of appointments?
+ii) User groups was well defined 
+iii) 
 iv)
 v)
 
 Woo Woo 1:
 
-i)
-ii)
+i) The descripton was very clear.
+ii) How will you achieve your scalability goals?
 iii)
 iv)
 v)
 
 Woo Woo 2:
 
-i)
-ii)
+i) What type of privallages will developers be granted?
+ii) Enviromental constraints was a good slide to add, considering after the year they will no longer have us to continue matenence or extra development
 iii)
 iv)
 v)
 
 LIMS 0:
 
-i)
-ii)
-iii)
+i) Adding the indroductions of the members was a good idea
+ii) finding the mvp is a good addition considering the scale of the project is quite large
+iii) why is client not want to host the database?  As this will cause diffucultys in the future  
 iv)
 v)
 
 LIMS 1:
 
-i)
-ii)
+i) The diagrams added were very valuable for showing the steps involved with the software
+ii) NextJS seems very interesting how did you guys discover this software?
 iii)
 iv)
 v)
 
 LIMS 2:
 
-i)
-ii)
-iii)
+i) The target users description was very good.
+ii) The use of lambda and rds is smart considering you client wants you to host locally.
+iii) Why are you testing on jira, is that also where your project will be stored?
 iv)
 v)
 
 AGMEETING 0: US
+i) NICE
+
+GREAT WORK!!
 
 AGMEETING 1:
 
-i) 
-ii) 
+i) The defining of the users groups was good, especially between the moderator and administators who's roles are quite similar
+ii) Why did your dataflow diagrams not have veribage?
 iii) 
 iv)
 v)
@@ -132,17 +135,17 @@ v)
 
 AGMEETING 2:
 
-i)
-ii)
-iii)
+i) Dataflow diagrams were done well
+ii) requirements were very thorough
+iii) 
 iv)
 v)
 
 
 MIM 0:
 
-i)
-ii)
+i) milestones were defined nicely, broken up into equal sized difficulty 
+ii) Why are using pyUnit and pyTest?
 iii)
 iv)
 v)
@@ -150,15 +153,15 @@ v)
 
 MIM 1:
 
-i)
-ii)
+i) I liked the seprate slides for describing the dataflow diagrams
+ii) Why did your group decide to start testing near the end of the project instead of throughout?
 iii)
 iv)
 v)
 
 TMI 0:
 
-i)
+i) What are some of the other packages you will be using for the data
 ii)
 iii)
 iv)
@@ -166,15 +169,15 @@ v)
 
 TMI 1:
 
-i)
-ii)
+i) The definition of DICOM and PACS was helpful 
+ii) how will you anonymize the dicom files
 iii)
 iv)
 v)
 
 TMI 2:
 
-i)
+i) How will the medical researches retrive these files?
 ii)
 iii)
 iv)
