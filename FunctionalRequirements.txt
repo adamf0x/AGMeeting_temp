@@ -1,0 +1,45 @@
+- The system should correctly and securely check a customer credentials against the database.
+- Customer should be able to enter credentials into the database for future use.
+- Customer can request schedule/catalog from the database.
+- Customer can request documents from the database.
+- Customer can upload documents to the database.
+- System creates a log of functions during meetings.
+- Customer can request log of functions and messages from the database.
+- Payment is processed securely and correctly.
+- Multiple forms of payment can be processed. 
+- System must connect multiple users various locations using internet connectivity.
+- System must tally votes accurately from multiple devices.
+
+
+Requirements (October 13, October 20)
+ - We must have a weekly meeting structure established with both the client and the group.
+ - We should have a schedule of what needs to be done to accomplish what is required for Peer Eval 1
+ - We could have a start on the development build
+ - We don't have our final set of requirements nor a functional build
+
+Peer Eval 1 (November 24, November 26)  
+ - We must have a functional albeit unpolished build of our service.
+ - We should have an idea of what needs to be fixed with this build.
+ - We could have a beginning of our design and style for the service.
+ - We don't have our final build, but we do know what needs to be done to get there.
+
+Peer Eval 2 (March 2nd, March 4th)
+ - We must have our final build. 
+ - We should have our final report planning started.
+ - We could have our final report structure finalized and begun writing.
+ - We don't have final sign off or a completed report.
+
+Final (April 22)
+ - We must have a complete report. 
+ - We should have nothing left to do.
+ - We could have some final work to do to finish up communication with the client.
+ - We don't have any more work to do :)
+
+
+
+
+
+
+
+
+

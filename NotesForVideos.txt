@@ -1,0 +1,141 @@
+Checklic 0
+- Milestones are vague
+- Good demo of existing software
+- Do you not have component testing? Do you plan to test the entire system each time?
+
+Checklic 1
+- DFD 0 Is a bit minimal
+- Good milestone breakdown for functional requirements
+- Minimal NFR (Do you not have any notes for maintainability? Why is it on the slides?)
+- Environmental concern and tech stack seem to cover a lot of similar information
+- Would have been nice if the slides were more consistent
+
+Checklick 2
+- Great overview, good examples of existing service
+- Could have had a bit more for functional requirements
+- Good NFR
+- Great explaination of testing
+
+Cyclops 0
+- Good job explaining user groups
+- I liked the detail for the NFRs
+- Odd DFD 0 layout, good DFD 1
+- Detailed Pros/Cons for the different platforms
+- Minimal functional requirements
+
+Cyclops 1
+- A bit messy, slide style differed
+- I like the music
+- Why keep the existing squarespace page and not restart?
+- It seems like you’ve done good research
+- So, are you rebuilding using Ruby on Rails or adapting data from squarespace? I’m confused.
+
+Cyclops 2
+- DFD was very minimal, no labels
+- What will you use to test with? We don’t need to know you’re going to use component testing, we need to know how you’ll do it.
+- Minimal NFRs
+
+Ethics 0
+- Good use of graphics, but some text on the slides would have been nice.
+- How are you staying focused? You don’t really provide an explaination other that “we’re told to”
+- Good milestones, bad change of theme
+
+Ethics 1
+- Good description of users
+- Don’t read off the sldies, I can also read them.
+- We know what SQL is, you don’t need to explain it.
+- Why Django and Javascript? Do they integrate well?
+
+Ethics 2
+- Wish the user groups were better detailed
+- Should your tech stack also include HTML and CSS? It seems you’re missing them.
+- DFD 0 and 1 both seem really complicated
+- You can have more than 1 NFR for each topic
+
+Woo Woo 0
+- Consistent theme, very nice.
+- DFD 1 a bit hard to follow
+- Good NFR and milestones
+- Did I miss the functional requirements?
+- How would you solve the issue with personal laptops, maybe ask the client for resources.
+- You mention Digital Ocean at the end but I don’t recall it being mentioned earlier
+
+Woo Woo 1
+- Basic DFD 0, confusing DFD 1
+- Great tech stack diagram
+- Requirements could have been bullet points to be easier to read
+
+Woo Woo 2
+- Nice theme, wish all slides used it
+- Good user groups, but are developers really a user group? The way you describe them makes it sound more like “admin” would be a better title for that group.
+- Good DFD
+- Functional requirements could have had more text
+- What is your tech stack? You mention some stuff at the end (Like wireshark, nice) but I don’t remember you mentioning a tech stack
+
+LIMS 0
+- I like the theme, slides have a good amount of text
+- DFD 1 could be labelled better, it was a bit hard to understand
+- Good milestone breakdown, I really like the addition of a stretch goal! Optimistic!
+- Could you change your tech stack instead of changing the database to postgres?
+
+LIMS 1
+- What is QC procedure tracking?
+- Are lab employees not clients? How are they different?
+- I think you’re missing DFD 1
+- What requirements are for each milestone?
+- Good use of Electron! Neat idea to create a desktop version as well.
+
+LIMS 2
+- Stages are slightly confusing. Is this supposed to be the DFD?
+- Cute test hamster picture
+- Why split your requirements into 3 priorities?
+
+AGMEETING 1
+- Good breakdown of user groups
+- DFD 0 doesn’t say much, both DFD 0 and 1 lack labels
+- Tech stack + testing don’t have video, kinda distracting
+- How frequently do you present to the client? You mention this is one of the ways you’re going to test, so are you showing it after every push? Every milestone?
+
+AGMEETING 2
+- User group is vague
+- What is the difference between automated buttons and real time buttons?
+- You can have more than 1 NFR for each topic.
+- What are your milestones? What are you doing when?
+
+MIM 0
+- Good pros/cons for ML Library and processing steps!
+- Good DFD
+- Milestones could have a bit more detail
+- Minimal functional requirements
+- Is a CMD/IDE the best for usability? Why not have a GUI?
+
+MIM 1
+- Great description of the issue!
+- Really good schedule for milestones
+- NFR could be better detailed
+- Is the difference in models important, or is that something to look at in the future? You mention one option being the easiest, so would you only decide to go with that one if you were pressed for time?
+
+TMI 0
+- What is a dicom file?
+- DFD 1 has no labels
+- How do you not know if you’re using Python or C yet?
+- What are your functional requirements?
+- Your timeline seems odd
+
+TMI 1
+- Going VERY fast
+- Also didn’t explain what a dicom file is
+- Editing issues
+- DFD has no labels
+- Are the people being scanned not a user group? Surely they care about their privacy and the speed of their results, making them involved?
+- Please slow down oh my god
+- What is DIMSC?? I don’t know these acronyms
+- Good NFR but your explainations should be more related to the topic
+
+TMI 2
+- Nice introduction to the client!
+- THANK YOU for explaining dicom!
+- Also all the other jargon. Thank you!
+- I like Josh’s section hosted by josh
+- Only one DFD, no labels
+- Why was visual studio not an option?
