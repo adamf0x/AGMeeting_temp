@@ -1,0 +1,109 @@
+CheckLic 0
+- Clear and easy to understand goals to work from
+- Excellent use of visuals to help aid in explanation
+- For the testing strategy, is there another way to tell if you are done rather then "you are convinced there are no more bugs"?
+
+CheckLic 1
+- Level 1 DFD doesn't have data flowing between between entities
+- Not very many Non-Functional requriments, is there anymore you could add?
+- Feature testing is thoughtfully laid out and organized, the extended descriptions of features is also very helpful
+
+CheckLic 2
+- Design is fairly minimal, could have had more diagrams or figures to help in explanation
+- In the Feasability section, could you elaborate more on the original scope the client had in mind?
+- Audio is clear, well spoken and easy to follow from all group members
+
+Cyclops 0
+- Some explanations are long and unessecary, consider shortening this for clarity
+- DFD is well thought out, labled proficiently, and overall executed perfectly
+- Were there any other tech stack options you had considered besides Unity, Flutter, and Ionic?
+
+Cyclops 1
+- Visuals and presentation style was very appreciated, kept me engadged 
+- For your two implementation goals, eco tracker and text editor, how were planning on implementing them? How much should you have done by each milestone?
+- Having your non-funcitonal requirements orginazed into three groups was a smart decision 
+
+Cyclops 2
+- Could your end-user sub groups be considered sperate from each other? They both seem fairly disinct
+- Having different automated testing for certain features was a good idea
+- DFD should have the data flows labeled, don't think it's enough to just explain it auditorily 
+
+Ethics Dashboard 0
+- On some of the slides, having only visuals with the audio isn't enough. There should be at least a few bullet points on each slide that follows the audio
+- Powerpoint design show be the same throughout the presentation
+- Where in canada would the system location be located? Wouldn't it be only in ubc and ubco?
+
+Ethics Dashboard 1
+- Overview of the software was clear and understandable, all features clearly stated
+- Your non-funcitonal requirments are a bit unclear, unsure what they are
+- For the techstack, was having free reign on what you chose more challenging or liberating?
+
+Ethics Dashboard 2
+- Design too minimal, some bullet points, very few visuals
+- For the user groups, how many features are shared between the TAs and Intructors? Could some of the features be changed to be shared?
+- The Tentative Testing Plan was a useful addition, it should help streamline testing
+
+Woo Woo Network 0
+- Having dates for your features is a good idea to keep on track
+- How is an appropriate healer determined for a client?
+- Milestones in the DFD clearly labled and explained given the size of the diagram
+
+Woo Woo Network 1
+- Slides have too detailed descriptions, should be in bullet point form
+- Is there any flexablity in the tech stack, or has the client only allowed these specific programs?
+- Functional requirments should be clearly labeled, and summerized
+
+Woo Woo Network 2
+- Is the developer user group nessecary to include? How does it change if you were to only have healers and clients?
+- The features for each milestone should be further broken down in the slides for a clearer understanding
+- User preferences being an enviromental constraint I feel is half true, you can only appease them so much
+
+LIMS 0
+- Highly detailed description and clear understanding of goals
+- DFD level 1 slightly difficult to read, and data flow not very well explained
+- What makes your must have components "must have"?
+
+LIMS 1
+- Video is short but consise, both a good and bad thing
+- Could elaborate more on the core functionalities in each milestone?
+- No level 1 DFD available?
+
+LIMS 2
+- Target user goals described in great detail, each could be easily transcribed into a feature
+- In the languages choice section you mention Go and Fyne. Are these the same thing? Do they work tangentially with each other? Fyne was not Described.
+- Non-functional requirments are vast, and also described well. It's clear you have put a lot of thought into them
+
+AGM 1
+- Grouping the user groups by company size is an intresting approach
+- Each functional requirment is given a full description, and it's use for the product is well stated
+- How important is the super admin in the data flow diagram? Is it nessecary?
+
+AGM 2
+- Full decription on what each user group should be able to do is useful way to track progress
+- Both DFDs have a clear data flow structure, and all data has a purpose
+- Is it correct to have the Admins and Moderators grouped together in the DFD? They seem to have different funcitons
+
+MIM 0 
+- Weighting pros and cons for each tech stack is an intresting to make your choice on which to use. I apprciate that it was included
+- Is there anyway for the user to better use the product other than running a python script? Could you develop a GUI of some sort?
+- Workflow outline seems pretty standard, not sure if it should have been included in the video
+
+MIM 1
+- DFD seems fairly small and should have more features
+- Timeline for features we thought out and organized by date, the graph is also a good visualization of the timeline
+- Since you couldn't find any open resources for facial recognition, will you be still be utilizing this approach? Or will you try to do something less time consuming?
+
+TMI 0
+- Overall, slides have very little on them, should have diagram or figures to fill space, if the information is sufficient
+- Should be more non-functional requirments listed, such as compatability and efficiency
+- Was python and C++ the only available language offered by the client? Was there another language you could have suggested?
+
+TMI 1
+- All users should talk for an equal amount of time, the first person talked for more then half the video
+- Diagram were very detailed and elaborate, but they should have been cut down somewhat for clarity
+- Do you have specific dates in mind for the completion of each feature?
+
+TMI 2
+- Fully indepth and detailed description for the project, excellent research
+- Arrows should be labeled in the DFDs with specific data being transfered, also no level 0 DFD
+- What made you choose Google Test as your unit testing measurer?
