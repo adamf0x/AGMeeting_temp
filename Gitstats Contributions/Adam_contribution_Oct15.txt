@@ -3,6 +3,8 @@
 - Exploration: got material UI theme working with AGMeeting application
 - Task: Finished comments/questions for group evaluations
 
+google doc: https://docs.google.com/document/d/1EMrUCaXcT1qDezoSQIruP0DKH7jK-HZkBRQ1o61DlU0/edit
+
 Checklick (0)
 Presentation is very visually appealing
 was confused about what was being explain at times
