@@ -1,0 +1,171 @@
+- Edited formatting and theme for powerpoint presentation
+- Recorded portion for video presentation
+- Exploration: got material UI theme working with AGMeeting application
+- Task: Finished comments/questions for group evaluations
+
+Checklick (0)
+Presentation is very visually appealing
+was confused about what was being explain at times
+Seemed like the last team member didn’t present as much of the content
+Milestones could possible broken down into smaller chunks i.e. a more low level view
+Functional and non functional requirements aren’t clear
+
+Checklick (1)
+Lots of text on the slides makes them difficult to read
+Slides are descriptive 
+Diagrams are somewhat difficult to comprehend, however seem to be descriptive
+Categorized functional requirements are good, as well as some nice quantifiable non functional requirements
+language makeup chart is nice
+
+Checklick (2)
+High level overview is quite in depth and eloquently explained
+Nice to see major deliverables in high level overview
+slides seem somewhat crowded at times
+Interesting to point out that there is a lack of functional requirements for this project
+requirements more properly classified?
+Additional testing for visual aspects is a good addition
+Use of the term components is confusing with regards to React and Bulma
+
+Cyclops (0)
+Detailed user groups 
+Video is a little long
+Detailed environmental constraints
+Simple level 0 dfd is easy to read and understand 
+Pros and cons of each part of the text stack is a nice addition
+Detailed explanation of tech stack
+Testing process is well explained using proper terminology and is well researched
+
+Cyclops (1)
+The background music is a nice addition
+Nice graphics 
+Explanation behind plan is well thought out and consistent with other groups
+Explanation of how different user groups will use the application is clear and concise 
+Hosted web app maybe not ideal label for the component of the application serving the application 
+
+Cyclops (2)
+Outline of the video is a nice addition
+Information on slides should maybe be reduced into bullet points for readability
+Dfds possibly lacking information or some information should be changed (items should be labels on arrows etc)
+Testing strategies are well explained
+
+Ethics Dashboard (0)
+Summary text on slides might be a good addition
+Explanations are eloquent and detailed 
+Terminology for some of the technologies is incorrect and there are some editing errors
+Level 1 dfd is well labeled, explained and easy to read 
+Milestones are well organized and categorized
+The explanation of the backend and database was very thorough and specific techniques and strategies were outline, which was beneficial to understanding
+
+Ethics Dashboard (1)
+Paragraphs on the slides can make information more difficult to absorb
+Both level 0 and 1 DFD are detailed and easy to read
+Save work might not be necessary for level 1 dfd
+Many detailed milestones, although the timeframes may not be clear
+Voiceover is mostly read off of slides at times
+Taking into account future developers working on the product is a good addition when choosing tech stack
+
+Ethics Dashboard (2)
+Slides are easy to read and points are well organized
+Goals for each user group are detailed and well explained
+Chosen tech stack is well thought out
+Level 0 dfd is very detailed, maybe lightly too much so, difficult to comprehend
+Level 1 dfd very detailed and explanation of functionality of each class is a good addition 
+Colour coded text on database eases readability 
+Non functional requirements: scalability -> responsiveness 
+Good outline of testing tools 
+
+Woo Woo Network (0)
+Timeline for requirements is detailed
+Detailed user group descriptions
+Level 0 DFD is very easily readable and well explained
+Features in level 1 DFD are obvious 
+Maybe testing protocols could be explained in more detail, ie. what types of testing methodologies will be used etc
+
+Woo Woo Network (1)
+Text density on intro slides quite high, makes reading difficult
+User group slide is well organized and readable 
+Level 1 DFD might be lacking more technical details
+Tech stack is well thought out and diagrams/visuals are a nice addition 
+Requirements are detailed but bullet points might be good to increase readability on slides
+
+Woo Woo Network (2)
+What is each user group looking to be able to do when using the application?
+Detailed explanation of purpose of DFD 
+What is the timeline for each milestone?
+More details for each milestone might be beneficial
+Textual outline of functional requirements on slides would make them easier to understand 
+Quantifiable performance metrics (2 seconds to log in)
+Potential costs considerations is a nice addition 
+Testing being broken down by component helps with readability 
+
+LIMS (0)
+Definition of LIMS is appreciated
+Motivation for building new LIMS is well explained
+High level overview is broken down in to easily digestible chunks
+Will you have people peer reviewing your prs after individual integration testing?
+
+LIMS (1)
+Video might be slightly short
+What is QC procedure tracking? Quality control?
+Slides are concise yet informative
+Which requirements are to be completed at which milestones
+Tech stack well explained
+
+LIMS (2)
+User group breakdown is detailed
+Nice diagram for operational process
+Details milestone  breakdowns
+Will you be able to ensure aws servers are located within Canada to comply with laws surrounding medical information?
+Testing strategy could probably be more detailed
+How will Jira be used in regression testing
+
+AGMeeting (1)
+Detailed product description gives good understanding of project
+Target use groups are specific 
+Mentions “light” version of the application, maybe explain that in more  detail
+Dfd could use more labeling between nodes
+Blank screen for tech stack and testing strategy
+
+AGMeeting (2)
+Nice to have a succinct main project goal in the overview
+Detailed description of DFDs
+Skipped explanation of some of the functional requirements
+Good detailed overviews of different aspects of the system in functional requirements
+What is considered a reasonable amount of time for performing tasks
+NodeJS would probably be considered backend
+
+MIM (0)
+No description of how preprocessing of data is done
+Detailed DFDs which are easy to comprehend
+I appreciate the functional requirements being divided into user requirements and features
+Good in depth discussion of how prs will be handled 
+Breakdown of testing methods makes them easier to understand
+
+MIM (1)
+Text someone crowded on description slide
+Simplicity of DFDs is nice, however they still manage to be descriptive
+Data flow diagram components slides = functional requirements slides?
+Table outlining tasks and completion dates is great
+Curious about parallelization in pytorch and tensorflow because there was conflicting information about ease of parallelization
+Model types seem well researched 
+
+TMI(0)
+Could potentially use more description about what exactly the data pipeline is and how it works
+Level 1 DFD could use more information
+Timeframe for milestones?
+How will information secutiry be achieved
+
+TMI(1)
+Appreciate the definitions section
+Seems rushed at times
+Nice visual breakdown of the data pipeline
+What is sharding
+Seems like one member did much of the narration
+Explanation of functionality is detailed
+
+TMI(2)
+Appreciate the breakdown of acronyms
+Motivation for project is clearly explained
+Humor is appreciated
+Level 1 data flow diagram could use labels on arrows
+How will link between similar data be established
