@@ -1,0 +1,17 @@
+Seeing how you were given the tech stack, were you given any specific UI requirements?
+Yes The main requirement we have been giving for UI is to stick to consistent theme throughout. 
+That being said the theme is upto our own discretion.
+
+Which best practices is the codebase going to be measured up to?
+The best practices we are talking about is the use of commenting, Testing, and class and naming conventions.
+ Commenting will help other programers understand what the code is doing. 
+Testing will ensure any code changes does not cause errors throughout the project.
+ Whereas, class and naming conventions will be used to help allow the help the code structure be understandable for developers new to the project.
+
+How will your codebase be modularized?
+The way the code base will modularized is throught the use of classes and object oriented design. 
+This helps will testing and helps keep the project from getting to intertwined.
+
+
+What will be used to stylize the frontend?
+As stated prior Material-UI will be used for design of the frontend, it provides many prebuilt components and the abillity to alter there appearance.
