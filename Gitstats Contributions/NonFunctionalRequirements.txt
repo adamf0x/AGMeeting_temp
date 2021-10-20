@@ -1,4 +1,12 @@
 
 Non-functional requirements:
-	The non-functional for the devices running AGMeeting are as follows. Firstly, this software must be able to run on computers, tablets, and smartphones. These devices must also have audio in features to allow for voice chatting. In addition, to this it should be usable on any OS with a JavaScript enabled internet browser available. Admins and moderators’ systems should be capable of uploading files and saving meeting history.
-The non-functional requirements for the software itself are as follows. The software must be very responsive to allow for voice chatting and Realtime voting.  Furthermore, the software produced errors should be minimized during meetings. Their needs to be Servers which host the database, storing login and credentials. This data base must have security to ensure users data is safe Such as, encryption of data, number of login attempts until password must be reset. The code itself must follow best practices to ensure the code is readable, which in turn allows maintainability. Furthermore, the code should be written so functions and classes can be tested to ensure the software is safe and reliability. The code should also be modular to allow for better scalability. 
+Usability: 
+this software must be able to run on computers, tablets, and smartphones. In addition, to this it should be usable on any OS with a JavaScript enabled internet browser available.
+Responsive:
+The software must be very responsive to allow for voice chatting and Realtime voting. To ensure this requirement is met there will be practice runs with the software to simulate the meeting experience and ensure speed is adequate. 
+Reliable:
+the software produced errors should be minimized during meetings. This requirement will also be satisfied through practice runs of the software using the various feature and ensuring there is no substantial errors. In addition, unit testing will be employed for the software.
+Security:  
+This data base must have security to ensure users data is safe. The ways which this will be accomplished is through password encryption and needing to be invited to meetings by admins. 
+Maintainability:
+The code base must be maintainable. The code itself must follow best practices to ensure the code is readable, as well the code will follow DFD diagrams, and have documentation. These three things ensure maintainability is achieved. 
