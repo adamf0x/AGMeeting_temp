@@ -1,0 +1,24 @@
+Emailed Professor on OCT 8
+
+Asked for:
+Functional Requirements help
+Information about testing and CI for Adam
+How to represent non-written items in gistats
+An update on Friday October 8th
+
+Recieved:
+Helpful information about *Must have*, *Should Have*, *Could have*, and *Don’t have (out of scope)*
+Dates for the requirements
+Feedback for Adam
+An idea on how to submit non-written data
+
+Emailed Ife on OCT 8
+
+Asked for:
+Clarification about meeting time for Friday October 8th
+For a gut reaction to the prompts for the presentation
+If they were using a specific testing framework
+An update on the email with the prof about the teams needing to work on the same project
+
+Recieved:
+A confirmation for the meeting on October 15th at 10AM PST
