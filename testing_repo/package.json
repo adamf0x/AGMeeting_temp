@@ -6,7 +6,7 @@
   "scripts": {
     "build-client": "webpack --config webpack.client.js --watch",
     "dev": "nodemon server/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Ife Ajibola",
   "license": "ISC",
@@ -16,6 +16,7 @@
     "@mui/material": "^5.0.4",
     "express": "^4.17.1",
     "html-webpack-plugin": "^5.3.2",
+    "mocha": "^9.1.3",
     "nodemon": "^2.0.13",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",

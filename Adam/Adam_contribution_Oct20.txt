@@ -1,0 +1,35 @@
+Finished high level overview and testing and CI strategy for requirements report. Research on Mocha testing framwork, installed in the temporary project.
+
+High level overview:
+Our group is part of the team of people working on the AGMeeting application. This application is a mobile and web application designed to be used by both people looking to organize meetings and those attending meetings. 
+As the name implies the main functionality of the application caters to things like annual general meetings where there is a large number of people in attendance. The software allows for meeting participants to engage in a meeting that adheres to the Roberts Rules. 
+The Roberts Rules are an extensive set of rules for maintaining order and efficiency for different kinds of meetings. There are books written on these rules, but in short they outline different kinds of motions and how meetings should be organized around these 
+motions and the procedures that are followed to address them. The main user groups, as stated previously would be people hosting annual general meetings and looking for a way to easily moderate and control the flow of said meetings, and people participating in 
+these large meetings. AGMeeting will provide a wide range of functionality for doing the aforementioned things, while following the Roberts Rules of Order, such as allowing for motions, seconds and comments.
+
+Testing strategy:
+
+For our testing strategy, we have decided that Mocha or Jest will be the ideal testing frameworks for both the front and backend of the application. 
+The benefit of using an express backend for our application is that it allows us to use the same unit testing framework for both the front and backend of the application. Mocha will most likely be chosen as it offers simple asynchronous testing and includes 
+promises which will be important during the development of both the front and backend of the AGMeeting application. Mocha makes it simple to run groups of tests if they are placed in a single directory, which will increase the efficiency with which we can run 
+repeat tests on prs and commits. Mocha also has a fully fledged VS Code extension which will also help to increase the efficiency of our testing. During development we will try to adhere to a test driven development strategy, which entails writing tests before the 
+code which the code must pass, as opposed to writing code then writing tests for said code. For the overall strategy, there will be a number of steps that we will take to ensure code is properly tested and does not break the existing code base before being pushed to production. 
+All pull requests for Jira tasks, each of which should have a new branch, will be required to be reviewed by at least one other member of the team, as well as individually tested by the person making the pr. Once branches are merged integration testing will be 
+conducted on the development branch by all team members before merging the changes into production code. Black box testing will be conducted on the development branch to ensure the code is functioning properly from an end users perspective. This blackbox testing 
+will ensure that the application provides a pleasant user experience and adheres to usability and accessibility standards. Branches should be created off of the development branch, as this branch will theoretically always contain functional code. 
+As for the CI strategy, automated integration tests should be run by our CI/CD service (Jenkins, CircleCI, Azure devops, etc…) before the code is merged into the development branch. The CI service we will be using has not been entirely fleshed out yet 
+by our team and the client, and unless the client says otherwise we will likely be utilizing GitHub Actions for our CI service.
+
+
+mocha test output:
+
+> mocha
+
+
+
+  Test run
+    ===
+      ✔ should return true when the values are equal
+
+
+  1 passing (4ms)
